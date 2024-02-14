@@ -10,7 +10,7 @@ User-Friendly Interface: Provides clear and understandable output to facilitate 
 # Usage
 Run the program by providing the number of LEDs (n) and the permutation of LED ordering as input.
 The program will output:
--The maximum number of LEDs that can be lit.
--The dynamic programming table.
--The LEDs that achieve the maximum result.
--A demonstration of the result in a user-friendly format.
+- The maximum number of LEDs that can be lit.
+- The dynamic programming table.
+- The LEDs that achieve the maximum result.
+- A demonstration of the result in a user-friendly format.
