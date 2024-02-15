@@ -19,16 +19,29 @@ The program will output:
 # Quick Sight
 
 ## Reading Data from file option
-![max1](https://github.com/ZaidZitawi/Max_Led_Lightning/assets/111902956/27cd7dc2-3ba4-4000-a014-faf5f4943988)  ![max2](https://github.com/ZaidZitawi/Max_Led_Lightning/assets/111902956/b5ab9326-a5ae-4a82-81a8-a503e5193ec9)
+
+<p align="center">
+  <img src="https://github.com/ZaidZitawi/Max_Led_Lightning/assets/111902956/27cd7dc2-3ba4-4000-a014-faf5f4943988" alt="Reading Data Option" width="400" style="border: 2px solid black; box-shadow: 2px 2px 5px grey;">
+  <img src="https://github.com/ZaidZitawi/Max_Led_Lightning/assets/111902956/b5ab9326-a5ae-4a82-81a8-a503e5193ec9" alt="Reading Data Option 2" width="400" style="border: 2px solid black; box-shadow: 2px 2px 5px grey;">
+</p>
 
 ## Prompts the user option 
-![max3](https://github.com/ZaidZitawi/Max_Led_Lightning/assets/111902956/63ac27fe-5e6d-4334-998d-cdd5f256847c)
 
+<p align="center">
+  <img src="https://github.com/ZaidZitawi/Max_Led_Lightning/assets/111902956/63ac27fe-5e6d-4334-998d-cdd5f256847c" alt="User Prompt Option" width="400" style="border: 2px solid black; box-shadow: 2px 2px 5px grey;">
+</p>
 
-## Randome Data Generator
-![max4](https://github.com/ZaidZitawi/Max_Led_Lightning/assets/111902956/4030431c-7319-4c06-a9e2-3afd9f795717)
-![max5](https://github.com/ZaidZitawi/Max_Led_Lightning/assets/111902956/6e235496-602a-41f9-9598-3e5b9807f700)
+## Random Data Generator
+
+<p align="center">
+  <img src="https://github.com/ZaidZitawi/Max_Led_Lightning/assets/111902956/4030431c-7319-4c06-a9e2-3afd9f795717" alt="Random Data Generator" width="400" style="border: 2px solid black; box-shadow: 2px 2px 5px grey;">
+  <img src="https://github.com/ZaidZitawi/Max_Led_Lightning/assets/111902956/6e235496-602a-41f9-9598-3e5b9807f700" alt="Random Data Generator 2" width="400" style="border: 2px solid black; box-shadow: 2px 2px 5px grey;">
+</p>
 
 ## Dynamic Programming Table 
-![max6](https://github.com/ZaidZitawi/Max_Led_Lightning/assets/111902956/8707fde4-2441-4e57-ba6a-cf4cc56e5e37)
+
+<p align="center">
+  <img src="https://github.com/ZaidZitawi/Max_Led_Lightning/assets/111902956/8707fde4-2441-4e57-ba6a-cf4cc56e5e37" alt="Dynamic Programming Table" width="400" style="border: 2px solid black; box-shadow: 2px 2px 5px grey;">
+</p>
+
 
